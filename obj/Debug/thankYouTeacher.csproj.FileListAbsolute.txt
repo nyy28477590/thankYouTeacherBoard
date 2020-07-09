@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\thankYouTeacher\thankYouTeacher\bin\Debug\thankYouTeacher.exe.config
+C:\Users\user\source\repos\thankYouTeacher\thankYouTeacher\bin\Debug\thankYouTeacher.exe
+C:\Users\user\source\repos\thankYouTeacher\thankYouTeacher\bin\Debug\thankYouTeacher.pdb
+C:\Users\user\source\repos\thankYouTeacher\thankYouTeacher\obj\Debug\thankYouTeacher.csprojAssemblyReference.cache
+C:\Users\user\source\repos\thankYouTeacher\thankYouTeacher\obj\Debug\thankYouTeacher.Form1.resources
+C:\Users\user\source\repos\thankYouTeacher\thankYouTeacher\obj\Debug\thankYouTeacher.Properties.Resources.resources
+C:\Users\user\source\repos\thankYouTeacher\thankYouTeacher\obj\Debug\thankYouTeacher.csproj.GenerateResource.cache
+C:\Users\user\source\repos\thankYouTeacher\thankYouTeacher\obj\Debug\thankYouTeacher.exe
+C:\Users\user\source\repos\thankYouTeacher\thankYouTeacher\obj\Debug\thankYouTeacher.pdb
